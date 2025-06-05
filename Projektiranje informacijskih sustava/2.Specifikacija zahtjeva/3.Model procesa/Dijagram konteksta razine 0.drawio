@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Avast/136.0.0.0" version="27.1.4">
+  <diagram name="Page-1" id="C98Ny2FM5yfCWgEWS2yf">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-1" value="Potvrde o&amp;nbsp;&lt;div&gt;uspješno&amp;nbsp;&lt;/div&gt;&lt;div&gt;izvršenim&amp;nbsp;&lt;/div&gt;&lt;div&gt;promjenama&lt;/div&gt;&lt;div&gt;u sustavu&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="219.44099469183084" as="sourcePoint" />
+            <mxPoint x="365" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="160" />
+              <mxPoint x="365" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-2" value="Narudzba vina" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-4" target="O1Sy7H-nN0dSpjGqca2L-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="285" />
+              <mxPoint x="520" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-3" value="Prikaz narudzbi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-4" target="O1Sy7H-nN0dSpjGqca2L-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="255" />
+              <mxPoint x="260" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-4" value="P0&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Informacijski sustav vinoteke &quot;Kap Brotnja&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="210" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-5" value="Narudzbe, osobni podaci" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-6" target="O1Sy7H-nN0dSpjGqca2L-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="290" />
+              <mxPoint x="320" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-6" value="Kupac" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-7" value="Isporuka vina" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-8" target="O1Sy7H-nN0dSpjGqca2L-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="250" />
+              <mxPoint x="550" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-8" value="Dobavljač" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-9" value="Upravljanje&lt;div&gt;narudzbama,&amp;nbsp;&lt;/div&gt;&lt;div&gt;organizacijama&lt;/div&gt;&lt;div&gt;događaja&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-10" target="O1Sy7H-nN0dSpjGqca2L-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="390" />
+              <mxPoint x="430" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-10" value="Djelatnik&amp;nbsp;&lt;div&gt;(npr. voditelj)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-11" value="Upravljanje&lt;div&gt;korisnicima&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-12" target="O1Sy7H-nN0dSpjGqca2L-4" edge="1">
+          <mxGeometry x="-0.2829" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="180" />
+              <mxPoint x="440" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-12" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-13" value="Pregled&amp;nbsp;&lt;div&gt;narudzbi&lt;/div&gt;&lt;div&gt;korisnika&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.182;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-4" target="O1Sy7H-nN0dSpjGqca2L-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="370" />
+              <mxPoint x="367" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1Sy7H-nN0dSpjGqca2L-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.015;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.988;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O1Sy7H-nN0dSpjGqca2L-4" target="O1Sy7H-nN0dSpjGqca2L-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
